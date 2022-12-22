@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: "BIENVENUE DANS LG CONSULTING "
-tagline: Graphic Designer
+tagline: site by teslo.  www.teslo.cg
 featuredImage: /assets/equipment-chemical-cleaning-products-tools-maintenance-swimming-pool-excellent-wooden-surface-against-152651584.jpg
 cta:
   ctaText: Know more
