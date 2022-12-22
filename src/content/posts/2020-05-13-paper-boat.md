@@ -9,6 +9,21 @@ description: >+
   nombreux propriétaires confient cette mission à une entreprise. Zoom sur les
   services d'entretien de piscine proposés par les professionnels.
 
+
+  LG consultingue entretient les piscines et espaces verts des particuliers en Picardie et dans les périphéries de Paris. Ses services à la personne sont effectués avec respect, rapidité et qualité.
+
+
+  Cette société est votre partenaire confort ! Ses professionnels s'occupent de la beauté de votre jardin, de la bonne santé de votre bassin de baignade et réalisent des petits travaux, livraisons, tâches ménagères diverses et du baby-sitting.
+
+
+  LG consultingue  intervient avec proximité et efficacité, selon votre propre agenda et sans vous déranger. Pendant votre absence, ses employés peuvent surveiller et entretenir votre habitat et ses espaces extérieurs.
+
+
+  LG consultingue c'est aussi un coup de pouce informatique ! Ses employés vous aident à résoudre des problèmes techniques et complexes en quelques clics. Ou encore, à vous aider dans le montage de votre mobilier ou lors de votre déménagement par exemple.
+
+
+  Tous les services à la carte sont réalisés sept jours sur sept, excepté si la météo n'est pas favorable à des travaux en extérieur !
+
 featuredImage: /assets/service-entretien-de-piscine-confiez-votre-piscine-a-un-pro-29449-640-0.jpg
 ---
 
