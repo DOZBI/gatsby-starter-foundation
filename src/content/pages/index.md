@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
+title: "BIENVENUE DANS LG CONSULTING "
 tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/equipment-chemical-cleaning-products-tools-maintenance-swimming-pool-excellent-wooden-surface-against-152651584.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
