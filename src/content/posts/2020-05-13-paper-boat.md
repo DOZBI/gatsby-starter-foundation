@@ -1,10 +1,15 @@
 ---
 template: blog-post
-title: "Agent de piscine "
+title: "Service entretien de piscine : confiez votre piscine à un pro"
 slug: /character-design
-date: 2020-05-23 23:40
-description: How to draw a character
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+date: 2022-12-22 18:07
+description: >+
+  Faute de disponibilités ou des connaissances suffisantes, il n'est pas
+  toujours évident de s'occuper de l'entretien de sa piscine, si bien que
+  nombreux propriétaires confient cette mission à une entreprise. Zoom sur les
+  services d'entretien de piscine proposés par les professionnels.
+
+featuredImage: /assets/service-entretien-de-piscine-confiez-votre-piscine-a-un-pro-29449-640-0.jpg
 ---
 
 In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
