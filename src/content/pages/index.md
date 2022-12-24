@@ -5,7 +5,7 @@ title: "BIENVENUE DANS LG CONSULTING "
 tagline: site by teslo.  www.teslo.cg
 featuredImage: /assets/femme-africaine-sautant-dans-piscine-flotteur-gonflable-profitant-ete_53876-78503.jpg
 cta:
-  ctaText: Know moremm
+  ctaText: "Piscine "
   ctaLink: /about
 ---
 
